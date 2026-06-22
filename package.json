@@ -1,0 +1,13 @@
+{
+  "name": "notaire-publisher",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Robot de publication Drive -> WordPress pour articles de notaire.",
+  "scripts": {
+    "start": "node publish.mjs"
+  },
+  "dependencies": {
+    "googleapis": "^144.0.0"
+  }
+}
