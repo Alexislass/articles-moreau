@@ -31,6 +31,6 @@ jobs:
           ZERNIO_API_KEY: ${{ secrets.ZERNIO_API_KEY }}
           ZERNIO_LINKEDIN_ID: ${{ secrets.ZERNIO_LINKEDIN_ID }}
           ZERNIO_INSTAGRAM_ID: ${{ secrets.ZERNIO_INSTAGRAM_ID }}
-          DRIVE_FOLDER_NAME: "NOTAIRES ARTICLES"
+          DRIVE_FOLDER_NAME: "NOTAIRES ARTICLES (MOREAU)"
           FORCED_CATEGORY: "Nouveautés"
           DEFAULT_STATUS: "draft"
