@@ -33,4 +33,4 @@ jobs:
           ZERNIO_INSTAGRAM_ID: ${{ secrets.ZERNIO_INSTAGRAM_ID }}
           DRIVE_FOLDER_NAME: "NOTAIRES ARTICLES"
           FORCED_CATEGORY: "Nouveautés"
-          DEFAULT_STATUS: "draft"
+          DEFAULT_STATUS: "publish"
